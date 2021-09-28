@@ -18,6 +18,7 @@
 		11985185261E2E7600C7F7D1 /* CupcakeCornerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11985184261E2E7600C7F7D1 /* CupcakeCornerTests.swift */; };
 		11985190261E2E7600C7F7D1 /* CupcakeCornerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1198518F261E2E7600C7F7D1 /* CupcakeCornerUITests.swift */; };
 		11BC7AD12702573700CAC8A8 /* AddressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11BC7AD02702573700CAC8A8 /* AddressView.swift */; };
+		11BC7AD32702588C00CAC8A8 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11BC7AD22702588C00CAC8A8 /* CheckoutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		1198518F261E2E7600C7F7D1 /* CupcakeCornerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CupcakeCornerUITests.swift; sourceTree = "<group>"; };
 		11985191261E2E7600C7F7D1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		11BC7AD02702573700CAC8A8 /* AddressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressView.swift; sourceTree = "<group>"; };
+		11BC7AD22702588C00CAC8A8 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				11985172261E2E7500C7F7D1 /* CupcakeCornerApp.swift */,
 				11985174261E2E7500C7F7D1 /* ContentView.swift */,
 				11BC7AD02702573700CAC8A8 /* AddressView.swift */,
+				11BC7AD22702588C00CAC8A8 /* CheckoutView.swift */,
 				1189266D26FFE3F3003D6749 /* Order.swift */,
 				1189266B26FFE296003D6749 /* DisableButtonExample.swift */,
 				1189266926FFE021003D6749 /* LoadJSONDataWithURLSession.swift */,
@@ -280,6 +283,7 @@
 				1189266826FFDADB003D6749 /* UserExampleUsingCodingKeys.swift in Sources */,
 				11985175261E2E7500C7F7D1 /* ContentView.swift in Sources */,
 				1189266C26FFE296003D6749 /* DisableButtonExample.swift in Sources */,
+				11BC7AD32702588C00CAC8A8 /* CheckoutView.swift in Sources */,
 				11985173261E2E7500C7F7D1 /* CupcakeCornerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
